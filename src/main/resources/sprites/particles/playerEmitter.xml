@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emitter imageName="" name="Test Particle">
+  <spawnInterval enabled="true" max="50" min="25.0"/>
+  <spawnCount enabled="true" max="8.0" min="4.0"/>
+  <initialLife enabled="true" max="750.0" min="75.0"/>
+  <initialSize enabled="true" max="12" min="5"/>
+  <xOffset enabled="true" max="3.0" min="-3.0"/>
+  <yOffset enabled="true" max="3.0" min="-3.0"/>
+  <initialDistance enabled="true" max="30.0" min="10.0"/>
+  <speed enabled="true" max="50.0" min="10.0"/>
+  <length enabled="false" max="250.0" min="250.0"/>
+  <spread value="36000.0"/>
+  <angularOffset value="0.0"/>
+  <growthFactor value="100.0"/>
+  <gravityFactor value="0.0"/>
+  <windFactor value="0.0"/>
+  <startAlpha value="255.0"/>
+  <endAlpha value="128.0"/>
+  <color>
+
+  </color>
+</emitter>

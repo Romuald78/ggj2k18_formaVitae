@@ -1,0 +1,2 @@
+Forma Vitae v${project.version}
+RPH Studio - Global Game Jam 2018 - Cergy - France
